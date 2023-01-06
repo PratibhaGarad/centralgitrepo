@@ -1,3 +1,4 @@
 add (x+y)
-<<<<<<< HEAD
 return (y+x)
+sub (x,y)
+return (x-y)
